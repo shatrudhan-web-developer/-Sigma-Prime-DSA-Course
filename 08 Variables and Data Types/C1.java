@@ -28,5 +28,6 @@ Java provides three methods of display output.
 public class C1 {
     public static void main(String args[]) {
         System.out.print("Hello");
+        System.out.println();
     }
 }
