@@ -1,4 +1,4 @@
-//Calculate Simple Intrest
+//Calculate Simple Intrest :
 
 /*
 Formula : SI = (P*R*T)/100

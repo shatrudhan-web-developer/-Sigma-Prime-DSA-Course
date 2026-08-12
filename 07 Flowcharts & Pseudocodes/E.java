@@ -1,4 +1,4 @@
-//Find max of 3 Numbers
+//Find if number is prime or not prime :
 
 /*
 1. Start
@@ -10,6 +10,6 @@
                 Exit
             else
                 dive = div + v;
-5.     Print prime
+5. Print prime
 6. Exit
 */

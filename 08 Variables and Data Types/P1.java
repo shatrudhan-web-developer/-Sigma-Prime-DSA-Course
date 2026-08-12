@@ -9,6 +9,7 @@ Example :
     short + short → int
     char + char → int
 
+
 2. Java expression me agar koi operand long hai, to smaller integer types promote hokar long ho sakta hai.
 
 Example :

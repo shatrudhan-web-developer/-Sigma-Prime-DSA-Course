@@ -1,4 +1,4 @@
-//Sum of first n natural number
+//Sum of first n natural number :
 
 /*
 1. start
