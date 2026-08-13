@@ -1,4 +1,4 @@
-//Output in java
+//Output in java :
 
 /*
 Java provides three methods of display output.

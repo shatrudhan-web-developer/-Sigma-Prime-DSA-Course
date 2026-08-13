@@ -1,4 +1,4 @@
-//Fund max of 3 numbers :
+//Fnnd max of 3 numbers :
 
 /*
 1. Start

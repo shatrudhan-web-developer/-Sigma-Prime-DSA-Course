@@ -1,7 +1,7 @@
-// Boilerpoint Code
+// Boilerpoint Code :
 
 /*
-Boilerpoint Code : Every java program start with a basic structure called
+Ans : Every java program start with a basic structure called
 Boilerpoint Code.
 
 Example : 
