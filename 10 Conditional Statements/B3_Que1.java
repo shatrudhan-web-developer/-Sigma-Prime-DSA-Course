@@ -19,15 +19,22 @@ public class B3_Que1 {
         System.out.print("Enter your income = ");
         int income = sc.nextInt();
 
+        // Check tax according to income
         if (income < 500000) {
+
             tax = 0;
-            System.out.println("Your tax = " + tax);
+
         } else if (income >= 500000 && income < 1000000) {
+
             tax = (int) (income * 0.2);
-            System.out.println("Your tax = " + tax);
+
         } else {
+
             tax = (int) (income * 0.3);
-            System.out.println("Your tax = " + tax);
+
         }
+
+        // Print tax
+        System.out.println("Your tax is : " + tax);
     }
 }
