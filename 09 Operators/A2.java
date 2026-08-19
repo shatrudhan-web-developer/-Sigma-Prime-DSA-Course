@@ -1,4 +1,4 @@
-// Types in Operators :
+//Types in Operators :
 
 /*
 Operatoers :
@@ -19,4 +19,4 @@ Types :
 3. Logical Operators
 4. Bitwise Operators
 5. Assignment Operators
- */
+*/

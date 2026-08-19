@@ -1,7 +1,7 @@
 //🔥 Unary Operators :
 
 /*
-Unary Operator wo operator hai jo sirf ek operand/variable par operation perform karta hai.
+Ans : Unary Operator wo operator hai jo sirf ek operand/variable par operation perform karta hai.
 
 Example :
     ++, --
@@ -38,7 +38,7 @@ Types of Unary Operators :
     ◇ Value chenge
 */
 
-public class C3 {
+public class C2 {
     public static void main(String args[]) {
 
         // Pre Increment

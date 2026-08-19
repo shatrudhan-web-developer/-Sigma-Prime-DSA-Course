@@ -1,7 +1,7 @@
 // 🔥 Relational Operators :
 
 /*
-Relational Operators ka use do values/variables ko compare karne ke liye kiya
+Ans : Relational Operators ka use do values/variables ko compare karne ke liye kiya
 jaata hai.
 
 Note : ye compare karne ke always boolean result true ya false deta hai.
@@ -17,20 +17,20 @@ Operator        Name                            Meaniang
 <=              Less than or equal to           Chhota ya barabar
 */
 
-public class D3 {
+public class D2 {
     public static void main(String arg[]) {
 
-        //Equal to
+        // Equal to
 
         int A = 10;
         int B = 5;
         System.out.println((A == B));
-        
+
         int a = 4;
         int b = 4;
         System.out.println((a == b));
 
-        //Not equal to
+        // Not equal to
 
         int C = 20;
         int D = 20;
@@ -40,7 +40,7 @@ public class D3 {
         int d = 35;
         System.out.println((c != d));
 
-        //Greater than
+        // Greater than
 
         int E = 45;
         int F = 30;
@@ -50,7 +50,7 @@ public class D3 {
         int f = 50;
         System.out.println((e > f));
 
-        //Less than
+        // Less than
 
         int G = 77;
         int H = 99;
@@ -60,7 +60,7 @@ public class D3 {
         int h = 19;
         System.out.println((g < h));
 
-        //Greater than or equal to
+        // Greater than or equal to
 
         int I = 20;
         int J = 15;
@@ -70,7 +70,7 @@ public class D3 {
         int j = 15;
         System.out.println((i >= j));
 
-        //Less than or equal to
+        // Less than or equal to
 
         int K = 30;
         int L = 25;
