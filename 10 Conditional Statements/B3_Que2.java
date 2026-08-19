@@ -1,9 +1,5 @@
 //Print the largest of 3 numbers :
 
-/*
-A = 1, B = 3, C = 6
-*/
-
 import java.util.Scanner;
 
 public class B3_Que2 {
